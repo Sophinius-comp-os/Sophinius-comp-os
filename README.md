@@ -1,9 +1,11 @@
-![image](https://github.com/Sophinius-comp-os/Koech-sophronius/assets/123469961/e5e8e49f-bcf5-4095-baa9-683fc24d6b75)
+![download (1)](https://github.com/Sophinius-comp-os/Sophinius-comp-os/assets/123469961/09b3be8e-e7b6-4a1c-9559-ab9a93c39878)
+
 
 <h1 align="center">Hi 👋 there, I'm Koech</h1>
 <h3 align="center">A passionate Fullstack & Android App Developer from Kenya</h3>
 
-![image](https://github.com/Sophinius-comp-os/Koech-sophronius/assets/123469961/668ca18e-4daa-419f-b9d9-dfe218b8bb36)
+![image](https://github.com/Sophinius-comp-os/Sophinius-comp-os/assets/123469961/2f207f09-72f9-4bdf-8aeb-916bfc64a606)
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sophinius-comp-os&label=Profile%20views&color=0e75b6&style=flat" alt="sophinius-comp-os" /> </p>
