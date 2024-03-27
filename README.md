@@ -1,10 +1,11 @@
-![download (1)](https://github.com/Sophinius-comp-os/Sophinius-comp-os/assets/123469961/09b3be8e-e7b6-4a1c-9559-ab9a93c39878)
+
+![logo](https://github.com/Sophinius-comp-os/Sophinius-comp-os/assets/123469961/d88e6ea3-683e-4036-9458-27b309c12632)
 
 
 <h1 align="center">Hi 👋 there, I'm Koech</h1>
 <h3 align="center">A passionate Fullstack & Android App Developer from Kenya</h3>
 
-![image](https://github.com/Sophinius-comp-os/Sophinius-comp-os/assets/123469961/2f207f09-72f9-4bdf-8aeb-916bfc64a606)
+![images](https://github.com/Sophinius-comp-os/Sophinius-comp-os/assets/123469961/2dade221-c0f5-4429-8c6c-b599c4baf16f)
 
 
 
