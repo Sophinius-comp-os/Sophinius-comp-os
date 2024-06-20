@@ -21,7 +21,7 @@
 
 - 👯 I’m looking to collaborate on **my fellow techies in the industry..**
 
-- 👨‍💻 All of my projects are available at [http://dev_koech.vercel.app](http://dev_koech.vercel.app)
+- 👨‍💻 All of my projects are available at [http://koech.vercel.app](http://_koech.vercel.app)
 
 - 💬 Ask me about **Software Engineering**
 
