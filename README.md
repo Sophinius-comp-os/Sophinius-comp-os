@@ -15,13 +15,13 @@
 
 <p align="left"> <a href="https://twitter.com/dev_koech" target="blank"><img src="https://img.shields.io/twitter/follow/dev_koech?logo=twitter&style=for-the-badge" alt="dev_koech" /></a> </p>
 
-- 🔭 I’m currently working on **my final year project.**
+- 🔭 I’m currently working on **E-Housing project.**
 
 - 🌱 I’m currently learning **C# & React Native.**
 
 - 👯 I’m looking to collaborate on **my fellow techies in the industry..**
 
-- 👨‍💻 All of my projects are available at [http://koech.vercel.app](http://_koech.vercel.app)
+- 👨‍💻 All of my projects are available at [https://koech.vercel.app]
 
 - 💬 Ask me about **Software Engineering**
 
