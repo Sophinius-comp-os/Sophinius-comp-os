@@ -1,52 +1,103 @@
-!Welcome Back....
-![logo](https://gitonesmas-comp-os/onesmas-comp-os/assets/123469961/d88e6ea3-683e-4036-9458-27b309c12632)
+<div align="center">
 
+  <h1>Hi 👋, I'm Koech</h1>
+  <h3>A passionate Fullstack & Android App Developer from Kenya 🇰🇪</h3>
 
-<h1 align="center">Hi 👋 there, I'm Koech</h1>
-<h3 align="center">A passionate Fullstack & Android App Developer from Kenya</h3>
+  <br />
 
-![images](https://github.com/Sophinius-comp-os/Sophinius-comp-os/assets/123469961/2dade221-c0f5-4429-8c6c-b599c4baf16f)
+  <p>
+    <a href="https://twitter.com/dev_koech" target="_blank">
+      <img src="https://img.shields.io/twitter/follow/dev_koech?logo=x&style=for-the-badge&color=000000" alt="Twitter Follow" />
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=onesmas-comp-os&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  </p>
 
+</div>
 
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=onesmas-comp-os&label=Profile%20views&color=0e75b6&style=flat" alt="sophinius-comp-os" /> </p>
+### 👨‍💻 About Me
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sophinius-comp-os" alt="sophinius-comp-os" /></a> </p>
+- 🔭 **Currently working on:** A comprehensive [Helpdesk Project](https://s-kim.vercel.app)
+- 🌱 **Actively learning:** `C#` & `React Native`
+- 👯 **Open to collaboration on:** Innovative cross-platform apps and open-source projects
+- 🌐 **Portfolio:** [s-kim.vercel.app](https://s-kim.vercel.app)
+- 💬 **Ask me about:** Fullstack Architecture, Mobile App Development, & System Design
+- 📫 **How to reach me:** [kidchurch773@gmail.com](mailto:kidchurch773@gmail.com)
+- ⚡ **Fun Fact:** I convert caffeine into clean, efficient code!
 
-<p align="left"> <a href="https://twitter.com/dev_koech" target="blank"><img src="https://img.shields.io/twitter/follow/dev_koech?logo=twitter&style=for-the-badge" alt="dev_koech" /></a> </p>
+---
 
-- 🔭 I’m currently working on **Helpdesk project.**
+### 🌐 Connect with Me
 
-- 🌱 I’m currently learning **C# & React Native.**
-
-- 👯 I’m looking to collaborate on **my fellow techies in the industry..**
-
-- 👨‍💻 All of my projects are available at [https://s-kim.vercel.app]
-
-- 💬 Ask me about **Software Engineering**
-
-- 📫 How to reach me **kidchurch773@gmail.com**
-
-- ⚡ Fun fact **Ilove coding.**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/dev_koech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev_koech" height="30" width="40" /></a>
-<a href="https://twitter.com/dev_koech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dev_koech" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sophronous koech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sophronous koech" height="30" width="40" /></a>
-<a href="https://instagram.com/dev_koech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dev_koech" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/sophronous-koech" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/dev_koech" target="_blank">
+    <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://dev.to/dev_koech" target="_blank">
+    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devto&logoColor=white" alt="DEV.to" />
+  </a>
+  <a href="https://instagram.com/dev_koech" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
 
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"><br>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+### 🛠️ Languages & Frameworks
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sophinius-comp-os&show_icons=true&locale=en&layout=compact" alt="sophinius-comp-os" /></p>
+#### **Mobile & Web Development**
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sophinius-comp-os&show_icons=true&locale=en" alt="sophinius-comp-os" /></p>
+#### **Backend & Databases**
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sophinius-comp-os&" alt="sophinius-comp-os" /></p>
+#### **Tools, Cloud & Platforms**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+
+---
+
+### 📊 GitHub Statistics
+
+<div align="center">
+  <a href="https://github.com/sophinius-comp-os">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sophinius-comp-os&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sophinius-comp-os&layout=compact&theme=tokyonight&hide=html,css"/>
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://github.com/sophinius-comp-os">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sophinius-comp-os&theme=tokyonight" alt="GitHub Streak" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  🏆 <i>"Building impactful solutions, one line of code at a time."</i>
+</div>
