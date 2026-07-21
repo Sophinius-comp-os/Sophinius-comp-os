@@ -18,7 +18,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 **Currently working on:** A comprehensive [Helpdesk Project](https://s-kim.vercel.app)
+- 🔭 **Currently working on:** A comprehensive IOT PROJECT.
 - 🌱 **Actively learning:** `C#` & `React Native`
 - 👯 **Open to collaboration on:** Innovative cross-platform apps and open-source projects
 - 🌐 **Portfolio:** [s-kim.vercel.app](https://s-kim.vercel.app)
